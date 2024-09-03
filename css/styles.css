@@ -86,9 +86,13 @@ body {
   color: #fff;
 }
 
-.page-header-btn-link:hover,
-.page-header-btn-link:focus {
+.page-header-btn:hover,
+.page-header-btn:focus {
   background-color: #404bbf;
+}
+
+.page-team {
+  background-color: #f4f4fd;
 }
 
 .page-title {
@@ -101,6 +105,10 @@ body {
   color: #2e2f42;
   background-color: #f4f4fd;
   text-transform: capitalize;
+}
+
+.scroll-team {
+  background-color: #ffffff;
 }
 
 .section-title {
