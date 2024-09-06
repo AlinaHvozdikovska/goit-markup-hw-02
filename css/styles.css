@@ -5,6 +5,13 @@ body {
   background-color: #fff;
 }
 
+a {
+  text-decoration: none;
+}
+ul {
+  list-style: none;
+}
+
 .page-nav,
 .page-nav-link {
   font-weight: 500;
@@ -28,20 +35,16 @@ body {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-size: 18px;
+  text-decoration: none;
+
   /* line-height: 21px; */
   line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #4d5ae5;
 }
+
 .logo-text-nav {
-  font-family: "Raleway", sans-serif;
-  font-weight: 700;
-  font-size: 18px;
-  /* line-height: 21px; */
-  line-height: 1.17;
-  letter-spacing: 0.03em;
-  text-transform: uppercase;
   color: #2e2f42;
 }
 
@@ -103,7 +106,6 @@ body {
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
-  background-color: #f4f4fd;
   text-transform: capitalize;
 }
 
